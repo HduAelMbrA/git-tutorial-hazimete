@@ -1,2 +1,4 @@
 # git-tutorial-hazimete
-GitHub勉強会用
+
+GitHub 勉強会用
+締切間近はキツイ
